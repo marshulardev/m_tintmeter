@@ -3,6 +3,7 @@ Simple tint meter UI.
 
 ## Requirements
 [ox_lib](https://github.com/CommunityOx/ox_lib/releases)
+
 [ox_inventory](https://github.com/CommunityOx/ox_inventory/releases)
 
 ## Installation
